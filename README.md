@@ -1,6 +1,3 @@
-Certainly! Here's a README file for the provided code:
-
-```markdown
 # MNIST Digit Classification with Keras
 
 This repository contains a Python script that trains a neural network model to classify handwritten digits from the MNIST dataset using Keras. The trained model achieves a high accuracy rate and can predict the digit labels for new images.
